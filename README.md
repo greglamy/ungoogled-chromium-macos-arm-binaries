@@ -1,4 +1,4 @@
-# ungoogled-chromium-macos-arm-binaries
+# Ungoogled Chromium for macOS on arm64 binaries
 This repository shares Ungoogled Chromium binaries built by myself for macOS on Apple Silicon chips.
 
 - Build Machine : Apple MacBook Pro 16" 2021
